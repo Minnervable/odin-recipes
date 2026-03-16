@@ -1,6 +1,5 @@
-# Header 1
-## Header 2
+# Recipes project
+## Introduction to HTML
 
-This is a paragraph
+In this project I will demonstrate my ability to create files and edit them in HTML. I will be creating ordered and unordered lists, imbedding images, and uploading to Git. 
 
-### Header 3

@@ -1,8 +1,8 @@
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 24px;
   color:blueviolet;
   background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 .links.homepage {
@@ -11,16 +11,17 @@ body {
   display: block;
   width: 400px;
   padding: 10px;
-  border: 30px;
   margin: 20px auto;
   font-size: 32px;
   border-radius: 15px;
 }
 
+/* buttons need to be on the same line,
+they will not go in any other way and
+keep the same alignment  */
 #links-container {
   text-align: center;
 }
-
 .links.nav.next-page, 
 .links.nav.prev-page,
 .links.nav.homepage {

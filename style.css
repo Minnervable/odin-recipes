@@ -1,0 +1,105 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  color:blueviolet;
+  background-color: aqua;
+
+}
+.links.homepage {
+  background-color: lightpink;
+  box-sizing: border-box;
+  display: block;
+  width: 400px;
+  padding: 10px;
+  border: 30px;
+  margin: 20px auto;
+  font-size: 32px;
+  border-radius: 15px;
+}
+
+#links-container {
+  text-align: center;
+}
+
+.links.nav.next-page, 
+.links.nav.prev-page,
+.links.nav.homepage {
+  width: 200px;
+  height: 50px;
+  background-color: mediumvioletred;
+  display: inline-block;
+  font-size: 24px;
+  border-radius: 35px;
+  box-sizing: border-box;
+  padding: 7px;
+}
+
+.links.nav.next-page:hover {
+  background-color: chartreuse;
+}
+.links.nav.prev-page:hover {
+  background-color: mediumaquamarine;
+}
+.links.nav.homepage:hover {
+  background-color: salmon;
+}
+
+.links.nav.homepage {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-align: center;
+}
+
+.links.nav.next-page {
+text-align: right;
+}
+.links.nav.prev-page {
+text-align: left;
+}
+
+.title {
+  text-align: center;
+  background-color: lightcoral;
+  
+}
+.header {
+  background-color: lightblue;
+
+
+}
+.small.header {
+  background-color: lightgreen;
+
+}
+.pics {
+  display: block;
+  box-sizing: border-box;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border-radius: 25%;
+
+}
+.ingred, 
+.instructions, 
+.opener {
+  color: yellowgreen;
+    display: block;
+      margin: 0 auto;
+  width: 800px;
+  padding: 10px;
+  border-radius: 10px;
+
+
+}
+.ingred {
+  background-color: darkmagenta;
+
+}
+.instructions {
+  background-color: darkorchid;
+
+}
+.opener {
+  background-color: blue;
+}
